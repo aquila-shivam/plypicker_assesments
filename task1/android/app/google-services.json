@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033275486201",
+    "project_id": "plypicker-be2a2",
+    "storage_bucket": "plypicker-be2a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033275486201:android:e3e3c7c4a3b6f2ab695728",
+        "android_client_info": {
+          "package_name": "com.example.plypicker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7wWlHo8TuGEnsoIguKlmCaDwy4D_9-7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
