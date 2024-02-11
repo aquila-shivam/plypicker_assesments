@@ -1,0 +1,35 @@
+# Dependency directories
+node_modules/
+
+# Environment configuration
+.env
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Log files
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Ignore build artifacts and production-specific files
+/build/
+/dist/
+*.min.js
+
+# Ignore configuration files if they contain sensitive information
+/config/*.json
+/config/*.config
+
+# Ignore npm debug log
+npm-debug.log*
+
+# Ignore local development files
+*.env.local
